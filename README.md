@@ -2,7 +2,7 @@
 
 AI-powered meeting intelligence platform that transforms conversations into searchable knowledge through transcription, summarization, action extraction, and Retrieval-Augmented Generation (RAG).
 
-🔗 **Live Demo:** :contentReference[oaicite:0]{index=0}
+🔗 **Live Demo:** :https://smartminutes-indol.vercel.app/
 
 ---
 
